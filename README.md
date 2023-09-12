@@ -22,22 +22,23 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+
 GIF created with ...  
-<!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I encountered several obstacles with this application: initially, I did not have any issues with the Toast statement, however, after I stepped away from my project over the weekend, I returned to find the Toast statement no longer visible when I click the button on the emulator. Also, while typing in the commands in the terminal, I was prompted to authenticate using my GitHub credentials, however I was met with an error saying that that terminal authentication was removed in 2021 so I could not push the walkthrough gif through command line--rather, I had to manually upload the gif through GitHub. 
+
+I followed the prework tutorials attentively, however I still encountered these issues. I tried troubleshooting the best I could, but I still could not get the Toast message to appear on the emulator.
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
